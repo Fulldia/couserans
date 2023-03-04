@@ -1,0 +1,100 @@
+
+.titre_eaux{
+    margin-top:20vh;
+
+    margin-left: 10vh;
+}
+.titre_eaux h1{
+font-family: 'Palanquin Dark', sans-serif;
+font-size:34px;
+color: rgb(54, 54, 54);
+margin-top: -10vh;
+}
+
+.trait_titre{
+    width: 360px;
+    height: 1px;
+    background-color: #009595;
+
+}
+.trait{
+    margin-left:0;
+}
+.section_eaux{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin:10vh;
+    justify-content: space-between;
+
+}
+.eaux_body{
+    width: 70%;
+}
+.eaux_aside {
+    display: flex;
+    width: 28%;
+    min-height: 100vh;
+    margin-left: 5vh;
+    margin-top: -17vh;
+    padding: 5vh;
+    background-color: rgb(248, 248, 248);
+    flex-direction: column;
+}
+
+.span_strong{
+    font-weight: 700;
+}
+.bleu{
+    color:#009595;
+}
+.violet{
+    color:#993366;
+}
+h3{
+    font-size: 25px;
+}
+.eaux_liste{
+    display: flex;
+    margin-top:10vh;
+    flex-direction: row;
+    width: 100%;
+}
+.photo_eau{
+    margin-top:10vh;
+}
+.photo_eau img{
+    margin-top:5vh;
+    z-index:-10;
+}
+.eaux_servicesdeseaux{
+    width:100%;
+}
+.eaux_smdea{
+    width: 49%;
+}
+.infos_pratiques h4{
+    color: #129D9C;
+    margin-left: -37px;
+}
+.section_page_eaux{
+    max-height: 70vh;
+}
+.eaux_body_photo{
+    width:50%;
+    margin-top:40vh;
+}
+.découvrez{
+    margin-top:50px;
+    margin-bottom:-50px;
+}
+.accordion-button h3{
+    font-size: 20px;
+}
+.eaux_h2{
+    font-size: 15px !important;
+}
+.accordion-header{
+    padding-top: 0;
+    padding-bottom: 0;
+}
